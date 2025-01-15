@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SindhuraSriram/LC_practice/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/SindhuraSriram/LC_practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/SindhuraSriram/LC_practice/tree/master/1894-merge-strings-alternately) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SindhuraSriram/LC_practice/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/SindhuraSriram/LC_practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/SindhuraSriram/LC_practice/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SindhuraSriram/LC_practice/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SindhuraSriram/LC_practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
