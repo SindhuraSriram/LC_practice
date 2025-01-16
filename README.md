@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SindhuraSriram/LC_practice/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/SindhuraSriram/LC_practice/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/SindhuraSriram/LC_practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SindhuraSriram/LC_practice/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SindhuraSriram/LC_practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SindhuraSriram/LC_practice/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SindhuraSriram/LC_practice/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/SindhuraSriram/LC_practice/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
