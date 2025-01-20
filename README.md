@@ -139,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/SindhuraSriram/LC_practice/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SindhuraSriram/LC_practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SindhuraSriram/LC_practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/SindhuraSriram/LC_practice/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/SindhuraSriram/LC_practice/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/SindhuraSriram/LC_practice/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
