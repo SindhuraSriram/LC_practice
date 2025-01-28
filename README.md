@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SindhuraSriram/LC_practice/tree/master/0011-container-with-most-water) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/SindhuraSriram/LC_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SindhuraSriram/LC_practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SindhuraSriram/LC_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SindhuraSriram/LC_practice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
@@ -217,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/SindhuraSriram/LC_practice/tree/master/0399-evaluate-division) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
