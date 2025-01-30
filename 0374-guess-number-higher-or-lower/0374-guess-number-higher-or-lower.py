@@ -7,9 +7,10 @@
 
 class Solution:
     def guessNumber(self, n, s=1):
-        m = (s + n) // 2
-        g = guess(m)
-        n -= (n - m + 1)*g*(g-1)//2     
-        s += (m - s + 1)*g*(g+1)//2    
-        return m if not g else self.guessNumber(n, s)
-        
+        while s <= n:
+            m = (n + s) // 2
+            g = guess(m)
+            if g == 0: return m
+            if g < 0: n = m - 1
+            if g > 0: s = m + 1
+            
