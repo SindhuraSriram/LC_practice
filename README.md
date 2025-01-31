@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/SindhuraSriram/LC_practice/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/SindhuraSriram/LC_practice/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/SindhuraSriram/LC_practice/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/SindhuraSriram/LC_practice/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
