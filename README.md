@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SindhuraSriram/LC_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/SindhuraSriram/LC_practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SindhuraSriram/LC_practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/SindhuraSriram/LC_practice/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SindhuraSriram/LC_practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SindhuraSriram/LC_practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
