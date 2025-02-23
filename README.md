@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SindhuraSriram/LC_practice/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/SindhuraSriram/LC_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SindhuraSriram/LC_practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/SindhuraSriram/LC_practice/tree/master/1319-unique-number-of-occurrences) |
