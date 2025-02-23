@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/SindhuraSriram/LC_practice/tree/master/0399-evaluate-division) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/SindhuraSriram/LC_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SindhuraSriram/LC_practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SindhuraSriram/LC_practice/tree/master/1777-determine-if-two-strings-are-close) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SindhuraSriram/LC_practice/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
