@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/SindhuraSriram/LC_practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0392-is-subsequence) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/SindhuraSriram/LC_practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/SindhuraSriram/LC_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SindhuraSriram/LC_practice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/SindhuraSriram/LC_practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/SindhuraSriram/LC_practice/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/SindhuraSriram/LC_practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SindhuraSriram/LC_practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
