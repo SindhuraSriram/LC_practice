@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SindhuraSriram/LC_practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/SindhuraSriram/LC_practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0392-is-subsequence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SindhuraSriram/LC_practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/SindhuraSriram/LC_practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/SindhuraSriram/LC_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SindhuraSriram/LC_practice/tree/master/1392-find-the-difference-of-two-arrays) |
