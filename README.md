@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SindhuraSriram/LC_practice/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SindhuraSriram/LC_practice/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/SindhuraSriram/LC_practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SindhuraSriram/LC_practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/SindhuraSriram/LC_practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/SindhuraSriram/LC_practice/tree/master/0907-koko-eating-bananas) |
