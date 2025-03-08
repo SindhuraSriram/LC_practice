@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SindhuraSriram/LC_practice/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SindhuraSriram/LC_practice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0189-rotate-array) |
