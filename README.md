@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SindhuraSriram/LC_practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/SindhuraSriram/LC_practice/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SindhuraSriram/LC_practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SindhuraSriram/LC_practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SindhuraSriram/LC_practice/tree/master/0274-h-index) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SindhuraSriram/LC_practice/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/SindhuraSriram/LC_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SindhuraSriram/LC_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SindhuraSriram/LC_practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SindhuraSriram/LC_practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
