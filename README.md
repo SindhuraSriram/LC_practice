@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SindhuraSriram/LC_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SindhuraSriram/LC_practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0392-is-subsequence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SindhuraSriram/LC_practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SindhuraSriram/LC_practice/tree/master/0242-valid-anagram) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SindhuraSriram/LC_practice/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SindhuraSriram/LC_practice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/SindhuraSriram/LC_practice/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
