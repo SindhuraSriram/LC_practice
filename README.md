@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/SindhuraSriram/LC_practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SindhuraSriram/LC_practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuraSriram/LC_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/SindhuraSriram/LC_practice/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/SindhuraSriram/LC_practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SindhuraSriram/LC_practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SindhuraSriram/LC_practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SindhuraSriram/LC_practice/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuraSriram/LC_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SindhuraSriram/LC_practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/SindhuraSriram/LC_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SindhuraSriram/LC_practice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SindhuraSriram/LC_practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuraSriram/LC_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SindhuraSriram/LC_practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/SindhuraSriram/LC_practice/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SindhuraSriram/LC_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuraSriram/LC_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/SindhuraSriram/LC_practice/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/SindhuraSriram/LC_practice/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SindhuraSriram/LC_practice/tree/master/2413-smallest-number-in-infinite-set) |
@@ -411,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuraSriram/LC_practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
