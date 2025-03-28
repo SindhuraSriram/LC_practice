@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SindhuraSriram/LC_practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/SindhuraSriram/LC_practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/SindhuraSriram/LC_practice/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/SindhuraSriram/LC_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/0151-reverse-words-in-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/SindhuraSriram/LC_practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SindhuraSriram/LC_practice/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0088-merge-sorted-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SindhuraSriram/LC_practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SindhuraSriram/LC_practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/SindhuraSriram/LC_practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SindhuraSriram/LC_practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0202-happy-number) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SindhuraSriram/LC_practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/SindhuraSriram/LC_practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0215-kth-largest-element-in-an-array) |
