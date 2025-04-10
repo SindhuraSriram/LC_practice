@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SindhuraSriram/LC_practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SindhuraSriram/LC_practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SindhuraSriram/LC_practice/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/SindhuraSriram/LC_practice/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/SindhuraSriram/LC_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SindhuraSriram/LC_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/SindhuraSriram/LC_practice/tree/master/0399-evaluate-division) |
@@ -248,12 +249,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/SindhuraSriram/LC_practice/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/SindhuraSriram/LC_practice/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SindhuraSriram/LC_practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/SindhuraSriram/LC_practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/SindhuraSriram/LC_practice/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/SindhuraSriram/LC_practice/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/SindhuraSriram/LC_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/SindhuraSriram/LC_practice/tree/master/2470-removing-stars-from-a-string) |
