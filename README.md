@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SindhuraSriram/LC_practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SindhuraSriram/LC_practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SindhuraSriram/LC_practice/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/SindhuraSriram/LC_practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SindhuraSriram/LC_practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SindhuraSriram/LC_practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SindhuraSriram/LC_practice/tree/master/0056-merge-intervals) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SindhuraSriram/LC_practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SindhuraSriram/LC_practice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SindhuraSriram/LC_practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SindhuraSriram/LC_practice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SindhuraSriram/LC_practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SindhuraSriram/LC_practice/tree/master/0189-rotate-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SindhuraSriram/LC_practice/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/SindhuraSriram/LC_practice/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/SindhuraSriram/LC_practice/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SindhuraSriram/LC_practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
