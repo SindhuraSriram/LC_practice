@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/SindhuraSriram/LC_practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/SindhuraSriram/LC_practice/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SindhuraSriram/LC_practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SindhuraSriram/LC_practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SindhuraSriram/LC_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/SindhuraSriram/LC_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SindhuraSriram/LC_practice/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/SindhuraSriram/LC_practice/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/SindhuraSriram/LC_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/SindhuraSriram/LC_practice/tree/master/1397-search-suggestions-system) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SindhuraSriram/LC_practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SindhuraSriram/LC_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
