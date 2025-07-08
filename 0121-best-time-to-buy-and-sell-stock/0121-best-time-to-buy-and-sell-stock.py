@@ -1,11 +1,14 @@
 class Solution:
     def maxProfit(self, prices):
-        maximum_profit = 0
-        lowest_price = prices[0]
+        left = 0  # Buy
+        right = 1  # Sell
+        max_profit = 0
+        while right < len(prices):
+            current_profit = prices[right] - prices[left]
+            if prices[left] < prices[right]:
+                max_profit = max(current_profit, max_profit)
+            else:
+                left = right
+            right += 1
+        return max_profit
         
-        for day in range(len(prices)):
-            lowest_price = min(prices[day], lowest_price)
-            price_difference = prices[day] - lowest_price
-            maximum_profit = max(price_difference, maximum_profit)
-        
-        return maximum_profit
