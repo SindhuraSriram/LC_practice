@@ -12,5 +12,4 @@ class Solution:
                 nums1[right] = nums2[nidx]
                 nidx -= 1
 
-            right -= 1
-        
+            right -= 1   
