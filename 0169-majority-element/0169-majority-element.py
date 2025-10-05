@@ -1,15 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        n = len(nums)
-        m = defaultdict(int)
+        hash = {}
+        res = majority = 0
         
-        for num in nums:
-            m[num] += 1
+        for n in nums:
+            hash[n] = 1 + hash.get(n, 0)
+            if hash[n] > majority:
+                res = n
+                majority = hash[n]
         
-        n = n // 2
-        for key, value in m.items():
-            if value > n:
-                return key
-        
-        return 0
-        
+        return res     
