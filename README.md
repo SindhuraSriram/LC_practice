@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SindhuraSriram/LC_practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SindhuraSriram/LC_practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SindhuraSriram/LC_practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SindhuraSriram/LC_practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SindhuraSriram/LC_practice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SindhuraSriram/LC_practice/tree/master/0069-sqrtx) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SindhuraSriram/LC_practice/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/SindhuraSriram/LC_practice/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/SindhuraSriram/LC_practice/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/SindhuraSriram/LC_practice/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
